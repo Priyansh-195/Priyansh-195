@@ -27,6 +27,11 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Priyansh-195&show_icons=true&theme=tokyonight)
 
 ---
+## 📊 GitHub Contributions
+
+![Priyansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Priyansh-195&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Priyansh-195&layout=compact&theme=radical)
+
 
 _“Always learning, always building.”_
 
